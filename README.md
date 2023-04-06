@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm working on a interactive period table project in React.<br>🌱 I’m currently learning Typescript<br>
+I'm a student and a developer.
+<br>Currently learning Typescript.<br>
 
 
 ## 🌐 Socials:
@@ -11,5 +12,3 @@ I'm working on a interactive period table project in React.<br>🌱 I’m curren
 ![](https://github-readme-stats.vercel.app/api?username=OlliJeCool&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OlliJeCool&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlliJeCool&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
