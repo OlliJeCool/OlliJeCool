@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student and a developer.<br>Currently learning Typescript.
+I'm a student and a developer.<br>My main language is TypeScript. I use the Nest.js framework for TS Backend development.
 
 
 ## 🌐 Socials:
